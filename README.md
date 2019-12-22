@@ -12,8 +12,6 @@ Official documentation for the API at https://dev.mailjet.com/sms/guides/.
 
 The SMS API the authorization is based on a Bearer token. Signup with Mailjet to get a token https://app.mailjet.com/signup.
 
-Make sure that tour text message are [properly encoded](https://dev.mailjet.com/sms/guides/encoding/).
-
 ### Example code
 
 ```php
